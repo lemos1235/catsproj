@@ -1,6 +1,6 @@
 package club.lemos
 
-object Main extends App {
+object Cats extends App {
 
   println("hello")
 }
